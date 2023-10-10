@@ -1,0 +1,16 @@
+h1{
+    font-size: 200px;
+    
+    font-weight: 900;
+    color: #B4AED0;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.container-fluid{
+    /* background: url(); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 440px;
+}
